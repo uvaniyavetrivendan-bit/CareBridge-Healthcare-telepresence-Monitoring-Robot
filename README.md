@@ -19,6 +19,25 @@ The project combines embedded systems and IoT concepts for healthcare-related re
 
 - Explore low-cost remote monitoring solutions.
 
+
+# Technologies Used
+
+ESP8266 - Main controller for loT communication
+
+ESP32-CAM - Live camera streaming
+
+DHT11 Sensor - Temperature monitoring
+
+Pulse Sensor - Heart-rate monitoring
+
+Ultrasonic Sensor - Obstacle detection
+
+L298N Motor Driver - Robot movement control
+
+Arduino IDE - Embedded programming
+
+Telegram Bot API - Patient-status notifications
+
 # Key Features
 
 - Remote movement control using directional commands.
@@ -41,9 +60,6 @@ The project combines embedded systems and IoT concepts for healthcare-related re
 
 5. Obstacle information and patient-status updates are communicated as implemented.
 
-# Technologies
-
-Add the exact microcontrollers, sensors, programming languages, and communication technologies used in the actual prototype.
 
 # Future Scope
 
@@ -65,9 +81,27 @@ Add the exact microcontrollers, sensors, programming languages, and communicatio
 
 - Remote monitoring
 
-# Project Status
+# Published Research Paper
 
-Academic prototype. Features, implementation details, and test results will be documented based on the actual project.
+Title: loT Enabled Telepresence Robot for Real-Time Remote Patient Monitoring
+
+[View Published Research Paper (PDF)](33-LBRJ3105.pdf)
+
+Project Report
+
+[View CareBridge Project Report (PDF) ](CareBridge report.pdf).
+
+# Future Enhancements
+
+Wireless wearable patient-monitoring band
+
+Additional patient vital-sign monitoring
+
+Improved remote monitoring and alert features
+
+Project Status
+
+The project demonstrates an loT-based telepresence robot prototype for remote monitoring, live video streaming, obstacle detection, and patient-status communication.
 
 # Author
 
